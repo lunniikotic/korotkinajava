@@ -1,16 +1,18 @@
 import java.util.Scanner;
 
 public class Main {
-    static Scanner in = new Scanner(System.in);
     public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
         System.out.println("введите a и b ");
-        int a=in.nextInt();
+
+        int a = in.nextInt();
         int b = in.nextInt();
-        aandb.aandb(a,b);
-        aandb.ab(a,b);
-        aandb.aplusb(a,b);
-        aandb.aminusb(a,b);
-        aandb.arasdb(a,b);
+
+        Calc.compare(a, b);
+        Calc.multiply(a, b);
+        Calc.plus(a, b);
+        Calc.minus(a, b);
+        Calc.divide(a, b);
     }
 }
 
