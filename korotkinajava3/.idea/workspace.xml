@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d964375b-8923-46b6-b95c-8a17ee4077a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../array/array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krestiki/krestiki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicheskay2/practicheskay2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicheskaya1/practicheskaya1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktik1/praktik1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/untitled10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/untitled11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/untitled8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/untitled9.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2d0WkVIUEDLDv9xp0c7sD3JeBR3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/yarbl/IdeaProjects/korotkinajava3/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d964375b-8923-46b6-b95c-8a17ee4077a8" name="Changes" comment="" />
+      <created>1709145620633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709145620633</updated>
+    </task>
+    <servers />
+  </component>
+</project>
